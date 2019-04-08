@@ -10,8 +10,5 @@
   "browser_action": {
     "default_title": "generatedom",
     "default_popup": "popup/popup.html"
-  },
-  "background": {
-    "scripts": ["background.js"]
   }
 }
